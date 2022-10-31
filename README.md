@@ -1,0 +1,2 @@
+# Android_StudentManager
+这是一个用AndroidStudio开发的管理学生信息的小项目，目前功能好不是很多，等后续会更新更多功能
